@@ -21,5 +21,3 @@ pip install keras==2.1.0
 ## Auteurs:*
 * Lyes BOUALI
 * Asma SEMSAR <br>
-
-Date : 3 mai 2020*
