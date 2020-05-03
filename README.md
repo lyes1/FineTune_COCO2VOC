@@ -13,12 +13,12 @@ before doing above steps install cython
 pip install pyyaml==5.1.0
 
 ## Tensorflow
-version 1.15.0
+pip install tensorflow==1.15.0
 
 ## Keras
-version 2.1.0
+pip install keras==2.1.0
 
-*Auteurs:* <br>
+## Auteurs:*
 * Lyes BOUALI
 * Asma SEMSAR <br>
 
